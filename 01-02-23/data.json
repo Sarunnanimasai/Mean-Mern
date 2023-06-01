@@ -1,0 +1,19 @@
+{
+  "myData": [
+    {
+      "id": 1685608639109,
+      "email": "sarunnani@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 1685608770724,
+      "email": "sarunnani@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": 1685608962107,
+      "email": "sarun@sarun.com",
+      "password": "123456"
+    }
+  ]
+}
